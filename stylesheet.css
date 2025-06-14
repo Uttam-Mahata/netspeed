@@ -1,0 +1,19 @@
+/* NetSpeed Extension Stylesheet */
+
+.netspeed-label {
+    font-size: 12px;
+    font-weight: bold;
+    color: #ffffff;
+    margin: 0 2px;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
+}
+
+.netspeed-label:hover {
+    color: #e6e6e6;
+    transition: color 0.2s ease;
+}
+
+/* Optional: Custom styling for the panel button */
+.panel-status-menu-box .netspeed-label {
+    padding: 0 3px;
+}

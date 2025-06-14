@@ -1,0 +1,16 @@
+{
+  "name": "Network Speed Monitor",
+  "description": "Display internet download and upload speed in the top panel",
+  "uuid": "netspeed@uttammahata.local",
+  "shell-version": [
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46"
+  ],
+  "version": 1,
+  "url": ""
+}
